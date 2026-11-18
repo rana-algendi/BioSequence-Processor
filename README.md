@@ -2,6 +2,12 @@
 
 A powerful Front-end application built with JavaScript to perform real-time biological operations and sequence analysis. This project bridges the gap between Bioinformatics and Web Technology, allowing users to process genomic data directly in the browser.
 
+
+## 🎥 Full Demo Video
+
+Want to see the full walkthrough? Check out the complete video demonstration here:
+👉 **[Watch the full 6-minute demo on Google Drive]([https://drive.google.com/file/d/1Wpdiz0Th_TfKqcx5SKNs3T9932UPARuA/view?usp=drive_link](https://drive.google.com/file/d/1Wpdiz0Th_TfKqcx5SKNs3T9932UPARuA/view?usp=sharing))**
+
 ## 🚀 Key Features
 * **Live Biological Operations:** Perform complex genomic tasks such as:
     * **DNA to RNA Transcription.**
